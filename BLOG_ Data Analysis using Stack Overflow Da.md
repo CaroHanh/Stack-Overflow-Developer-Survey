@@ -12,7 +12,7 @@ Question 4: The more you learn, will the more salary you get?
 
 ### Question 1: What type of company or organization do you work for?
 
-[![pic1](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/1#issue-2341676209)
+[![pic1](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/1#issue-2341676209)]
 
 Through the chart, we can easily see:
 
@@ -22,7 +22,7 @@ The number of people working in State-owned companies is small, about less than 
 
 ### Question 2: What is your main field of study in college or university/for your undergraduate studies in 2023?
 
-[![pic1](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/2#issue-2341676680)
+[![pic2](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/2#issue-2341676680)
 
 Through the chart, we can easily see:
 
@@ -32,7 +32,7 @@ The rate of people graduating from field A health science is the least, about 1%
 
 ### Question 3: Which is most important benefits to you?
 
-[![pic1](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/3#issue-2341676955)
+[![pic3](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/3#issue-2341676955)
 
 Based on the chart, we see:
 
@@ -42,7 +42,7 @@ Child/elder care and Other are benefits that receive little attention, accountin
 
 ### Question 4: The more you learn, will the more salary you get?
 
-[![pic1](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/4#issue-2341677114)
+[![pic4](http://~)](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/issues/4#issue-2341677114)
 
 Based on the map, we can see:
 
