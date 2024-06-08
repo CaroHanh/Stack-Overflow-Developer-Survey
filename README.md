@@ -1,4 +1,4 @@
-https://medium.com/@teresatranmyhanh98/data-analysis-using-stack-overflow-data-2023-survey-2e7e063fd41e
+( You can see my Blog Post on Medium: [Data Analysis using Stack Overflow Data — 2023 Survey](https://medium.com/@teresatranmyhanh98/data-analysis-using-stack-overflow-data-2023-survey-2e7e063fd41e) )
 
 # Data Analysis using Stack Overflow Data - 2023 Survey
 
@@ -9,6 +9,9 @@ This blog post is part of Udacity Data Scientists Nanodegree Program. Detailed a
 
 ### Jupyter notebook code:
 [My Jupyter notebook code](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/blob/main/The%20Stack%20Overflow%20Survey%20-%202023.ipynb)
+
+### Data source:
+[Data source](https://survey.stackoverflow.co/)
 
 
 ## Objectives
