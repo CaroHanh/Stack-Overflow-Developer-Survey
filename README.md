@@ -1,3 +1,6 @@
+# FINAL PROJECT: The Stack OverFlow Developers Survey - 2023
+Code: https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/blob/main/The%20Stack%20Overflow%20Survey%20-%202023.ipynb
+Blog: https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/blob/main/BLOG_%20Data%20Analysis%20using%20Stack%20Overflow%20Da.md
 # Introduction to Data Science Course
 
  Content for Udacity's Introduction to Data Science course.
@@ -37,5 +40,3 @@ Acknowledgment:
 
 Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know. <3
 
-# The Stack OverFlow Developers Survey - 2023
-Project: https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/blob/main/The%20Stack%20Overflow%20Survey%20-%202023.ipynb
