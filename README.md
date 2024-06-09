@@ -95,7 +95,7 @@ The findings here are observational, not the result of a formal study
 To see more about this analysis, see the link to my Github available [here](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey)
 
 ### View a detailed analysis report on Medium
-
+[Blog_Medium](https://medium.com/@teresatranmyhanh98/when-it-comes-to-compensation-and-benefits-other-than-base-salary-which-is-the-most-important-to-22e005e95749)
 
 ### Files Description in the repo
 [The Stack Overflow Survey - 2023.ipynb](https://github.com/CaroHanh/Stack-Overflow-Developer-Survey/blob/main/The%20Stack%20Overflow%20Survey%20-%202023.ipynb) - Notebook containing the data Analysis
